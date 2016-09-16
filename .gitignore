@@ -1,3 +1,6 @@
 node_modules
 typings
 dist
+semantic/src
+semantic/tasks
+!semantic/dist
